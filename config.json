@@ -44,10 +44,7 @@
         "seslog": "1015959354375163955"
     },
     "channels": {
-        "chat": "Chat kanalı id",
-        "voicechannel": "1014933112511283240",
-        "welcomechannel": "Hoş geldin kanalı id",
-        "rules": "Kurallar kanalı id"
+        "voicechannel": "1014933112511283240"
     },
     "Guild": {
         "GuildID": "997959445269188729",
