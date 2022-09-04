@@ -1,35 +1,35 @@
 {
     "bot": {
-        "owner": "Kendi discord id giriniz",
-        "prefix": "bot ön ek giriniz",
-        "BotStatus": "Bilmem ne kalp MERMKGEQKRGERG",
-        "BotFooter": "Bot alt kısım",
+        "owner": "997298310584999996",
+        "prefix": ".",
+        "BotStatus": "",
+        "BotFooter": "",
         "cooldown": 8
     },
     "penals": {
         "ban": {
-            "staff": "Ban yetkilisi id",
-            "log": "Ban log id",
+            "staff": "1014933063953825813",
+            "log": "1014933124431482901",
             "limit": 3
         },
         "jail": {
-            "staff": "Jail yetkili id",
+            "staff": "1014940382842339410",
             "roles": "Cezalı rolü id",
-            "log": "Ceza log id",
+            "log": "1014933124431482901",
             "limit": 5
         },
         "mute": {
-            "staff": "Mute yetkilisi id",
+            "staff": "1014940382842339410",
             "roles": "Susturulmuş kişi id",
-            "log": "Mute log id",
+            "log": "1014933124431482901",
             "limit": 5
         },
         "warn": {
-            "staff": "Warn yetkilisi id",
-            "log": "Warn log id"
+            "staff": "1014940382842339410",
+            "log": "1014933124431482901"
         },
         "transport": {
-            "staff": "Ta"
+            "staff": "1014940382842339410"
         },
         "points": {
             "mutepoints": "10",
