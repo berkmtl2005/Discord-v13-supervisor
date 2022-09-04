@@ -2,8 +2,8 @@
     "bot": {
         "owner": "997298310584999996",
         "prefix": ".",
-        "BotStatus": "",
-        "BotFooter": "",
+        "BotStatus": "Ben Laves",
+        "BotFooter": "Laves",
         "cooldown": 8
     },
     "penals": {
@@ -43,35 +43,11 @@
         "messagelog": "1015959280475709571",
         "seslog": "1015959354375163955"
     },
-    "roles": {
-        "vip": "",
-        "sponsor": "",
-        "müzisyen": "",
-        "team": ""
-    },
     "channels": {
         "chat": "Chat kanalı id",
         "voicechannel": "1014933112511283240",
         "welcomechannel": "Hoş geldin kanalı id",
         "rules": "Kurallar kanalı id"
-    },
-    "registration": {
-        "unregistered": "Kayıtsız rol id",
-        "man": ["Erkek rol id", "2. Erkek rol id"],
-        "woman": ["Kadın rol id", "2. Kadın rol id"],
-        "yetkilialim": "Yetkili alim id",
-        "staff": "1014940382842339410",
-        "enaltyetkilirolü": "En alt yetkili rol id",
-        "GuilDTag": "Sunucu Tagınız",
-        "TagSymbol": "İsim ve yaş önüne koyulacak sembol",
-        "autonickname": "$ İsim | Yaş (Otomatik isim)",
-        "symbol": "|",
-        "suspecios": "Şüpheli rol id",
-        "susoeciosnickname": "Şüpheli Hesap",
-        "oneman": "1. Erkek rolu",
-        "onewoman": "2. Kadın rolu",
-        "minage": 13, 
-        "purchase": false
     },
     "Guild": {
         "GuildID": "997959445269188729",
@@ -79,9 +55,9 @@
         "GuildOwnerRole": ["1014933063953825813"]
     },
     "emojis": {
-        "tada": "Emoji 1",
-        "yes": "Emoji 2",
-        "no": "Emoji 3"
+        "tada": "<:celestial_onay:1005235245550936165>",
+        "yes": "<:celestial_onaylanmadi:1005235256850382959>",
+        "no": "<:celestial_tada:1005235268921610380>"
 
     }
 } 
