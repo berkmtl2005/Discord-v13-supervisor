@@ -14,13 +14,13 @@
         },
         "jail": {
             "staff": "1014940382842339410",
-            "roles": "Cezalı rolü id",
+            "roles": "1015958945057230969",
             "log": "1014933124431482901",
             "limit": 5
         },
         "mute": {
             "staff": "1014940382842339410",
-            "roles": "Susturulmuş kişi id",
+            "roles": "1015958912970793030",
             "log": "1014933124431482901",
             "limit": 5
         },
@@ -39,20 +39,19 @@
         }
     },
     "logs": {
-        "taglog": "Tag log id",
-        "rollog": "Rol log id",
-        "messagelog": "Mesaj log id",
-        "seslog": "Ses log id"
+        "rollog": "1014933123122868334",
+        "messagelog": "1015959280475709571",
+        "seslog": "1015959354375163955"
     },
     "roles": {
-        "vip": "Vip rol id",
-        "sponsor": "Sponsor rol id",
-        "müzisyen": "Müzisyen rol id",
-        "team": "Taglı rol id"
+        "vip": "",
+        "sponsor": "",
+        "müzisyen": "",
+        "team": ""
     },
     "channels": {
         "chat": "Chat kanalı id",
-        "voicechannel": "Bot ses kanalı id",
+        "voicechannel": "1014933112511283240",
         "welcomechannel": "Hoş geldin kanalı id",
         "rules": "Kurallar kanalı id"
     },
@@ -61,7 +60,7 @@
         "man": ["Erkek rol id", "2. Erkek rol id"],
         "woman": ["Kadın rol id", "2. Kadın rol id"],
         "yetkilialim": "Yetkili alim id",
-        "staff": "Register rol id",
+        "staff": "1014940382842339410",
         "enaltyetkilirolü": "En alt yetkili rol id",
         "GuilDTag": "Sunucu Tagınız",
         "TagSymbol": "İsim ve yaş önüne koyulacak sembol",
@@ -75,9 +74,9 @@
         "purchase": false
     },
     "Guild": {
-        "GuildID": "Sunucu id",
-        "GuilDName": "Sunucu Adınız",
-        "GuildOwnerRole": ["Sunucu owner id"]
+        "GuildID": "997959445269188729",
+        "GuilDName": "Celestial Network",
+        "GuildOwnerRole": ["1014933063953825813"]
     },
     "emojis": {
         "tada": "Emoji 1",
